@@ -1,16 +1,40 @@
-# 0x00 | Vex 
+# 0x00 | VEX // Sovereign Core
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=FF2020&center=true&vCenter=true&width=700&lines=ACCESSING+VEX+CORE...;SCANNING+SYSTEM+INTEGRITY...;KERNEL+STATUS:+STABLE;WELCOME+TO+RING+0,+STALKER." alt="Vex Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=600&color=FF2020&center=true&vCenter=true&width=800&lines=BOOTING+SOVEREIGN+CORE...;ESTABLISHING+CONTROL+OVER+SYSTEM...;PAGASKA+ACTIVE...;OSAMA+LINKED...;WELCOME+TO+RING+0." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vex&label=SYSTEM+ACCESSES&color=FF2020&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Vexcompany&label=SYSTEM+ENTRY&color=FF2020&style=for-the-badge" />
 </p>
 
 ---
 
-## I — Diagnostic Panel
+## I — Mascot Interface
+
+<p align="center">
+  <img src="https://files.catbox.moe/placeholder1.png" width="300" />
+  <img src="https://files.catbox.moe/placeholder2.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" />
+</p>
+
+---
+
+## II — Identity Matrix
+
+```bash
+> user        : Vex
+> role        : System Architect / Field Commander
+> affiliation : PAGASKA // OSAMA SMKN 5 Madiun
+> clearance   : RING 0
+```
+
+---
+
+## III — System Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vexcompany&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF2020&line=FF2020&point=FFFFFF" width="100%" />
@@ -22,56 +46,62 @@
 
 ---
 
-## II — Architecture Principles
+## IV — Core Philosophy
 
 ```c
-/* Vex CORE DIRECTIVES */
+void SovereignMindset() {
+    while(alive) {
+        Train();
+        Execute();
+        Improve();
+    }
 
-void BootPhilosophy() {
-    TrustNoLayer(RING_3);
-    TrustNoLayer(RING_2);
-    TrustNoLayer(RING_1);
-    BuildFromScratch(RING_0);
-    OnlyTrust(&TheMachineWeBuild);
+    RejectWeakness();
+    BuildFromZero();
 }
 ```
 
-- Build from metal up. No abstraction without understanding.
-
 ---
 
-## III — Current Operations
+## V — Operational Units
 
-```
-whoami    ->  Vex
-arch      ->  x86_64
-kernel    ->  custom / TempleOS-adjacent
-clearance ->  RING 0
-location  ->  /dev/null
-status    ->  BUILDING
+```diff
++ PAGASKA  : Elite discipline, honor
++ OSAMA    : Leadership, authority
++ VEX CORE : System builder
 ```
 
 ---
 
-## IV — Contact
-
-```
-All unsolicited handshakes will be dropped.
-Authorized connections only.
-```
+## VI — Custom Badges
 
 <p align="center">
   <a href="https://github.com/Vexcompany">
-    <img src="https://img.shields.io/badge/GITHUB-Vexcompany-FF2020?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/PAGASKA-ELITE-FF2020?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Vexcompany">
+    <img src="https://img.shields.io/badge/OSAMA-SMKN5-000000?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
+## VII — Secure Channel
+
+```bash
+> scanning connections...
+[✔] authorized : allowed
+[✖] unknown    : dropped
+```
+
+---
+
+## VIII — Signature
+
 <p align="center">
-  <sub>"Just Normal Human."</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=2000&color=FF2020&center=true&vCenter=true&width=700&lines=Built+with+discipline.;Forged+for+control.;Welcome+to+my+system." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2020&height=80&section=footer&reversal=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2020&height=100&section=footer&reversal=true" width="100%" />
 </p>
