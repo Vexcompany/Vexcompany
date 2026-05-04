@@ -13,8 +13,8 @@
 ## I — Mascot Interface
 
 <p align="center">
-  <img src="https://ibb.co.com/LLdY07S" width="300" />
-  <img src="https://ibb.co.com/5CY5NjD" width="300" />
+  <img src="https://vex.web.id/1aa84b68-6d36-4a3e-bdbc-c6c54620acb2.webp" width="300" />
+  <img src="https://vex.web.id/caef21e9-97bf-4d7b-ae51-24c64c284260.webp" width="300" />
 </p>
 
 <p align="center">
