@@ -13,8 +13,8 @@
 ## I — Mascot Interface
 
 <p align="center">
-  <img src="https://files.catbox.moe/placeholder1.png" width="300" />
-  <img src="https://files.catbox.moe/placeholder2.png" width="300" />
+  <img src="https://ibb.co.com/LLdY07S" width="300" />
+  <img src="https://ibb.co.com/5CY5NjD" width="300" />
 </p>
 
 <p align="center">
