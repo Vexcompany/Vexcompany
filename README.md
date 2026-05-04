@@ -17,10 +17,6 @@
   <img src="https://vex.web.id/caef21e9-97bf-4d7b-ae51-24c64c284260.webp" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" />
-</p>
-
 ---
 
 ## II — Identity Matrix
