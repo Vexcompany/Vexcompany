@@ -73,10 +73,10 @@ void SovereignMindset() {
 
 <p align="center">
   <a href="https://github.com/Vexcompany">
-    <img src="https://img.shields.io/badge/PAGASKA-ELITE-FF2020?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/PAGASKA-KOOR INFOKOM-FF2020?style=for-the-badge" />
   </a>
   <a href="https://github.com/Vexcompany">
-    <img src="https://img.shields.io/badge/OSAMA-SMKN5-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/OSAMA-KOOR PDD-000000?style=for-the-badge" />
   </a>
 </p>
 
